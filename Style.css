@@ -1,9 +1,7 @@
 #red
 {
+    text-align: center;
     color: red;
-}
-
-#blue
-{
-    color: blue;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
